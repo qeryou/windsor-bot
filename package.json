@@ -1,0 +1,22 @@
+{
+  "name": "windsor-bot",
+  "version": "1.0.0",
+  "description": "personal discord bot ",
+  "main": "index.js",
+  "scripts": {
+    "test": ".w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qeryou/windsor-bot.git"
+  },
+  "author": "qeryou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qeryou/windsor-bot/issues"
+  },
+  "homepage": "https://github.com/qeryou/windsor-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.22.1"
+  }
+}
